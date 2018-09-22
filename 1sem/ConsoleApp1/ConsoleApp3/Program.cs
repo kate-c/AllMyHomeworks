@@ -11,6 +11,17 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             //////
+            /// dxcvgbhnjm
+            /// vgbnjmk
+            /// b m,
+            /// b m,
+            /// kfkjgdrkjgkgrdkjgkrg
+            /// dxfcgvhbjnkml
+            /// ///
+            /// ///
+            /// ...
+            /// ...
+            Console.WriteLine("hgvbjnkml,");
         }
     }
 }
